@@ -1,0 +1,14 @@
+C:\Users\Franco\Desktop\Esquema-TP-02\TP-02\Entidades\obj\Debug\Entidades.dll
+C:\Users\Franco\Desktop\Esquema-TP-02\TP-02\Entidades\obj\Debug\Entidades.pdb
+C:\Users\Franco\Desktop\Esquema-TP-02\TP-02\Entidades\bin\Debug\Entidades.dll
+C:\Users\Franco\Desktop\Esquema-TP-02\TP-02\Entidades\bin\Debug\Entidades.pdb
+C:\Users\L0665479\Desktop\Esquema-TP-02\TP-02\Entidades\bin\Debug\Entidades.dll
+C:\Users\L0665479\Desktop\Esquema-TP-02\TP-02\Entidades\bin\Debug\Entidades.pdb
+C:\Users\L0665479\Desktop\Esquema-TP-02\TP-02\Entidades\obj\Debug\Entidades_2017.csprojResolveAssemblyReference.cache
+C:\Users\L0665479\Desktop\Esquema-TP-02\TP-02\Entidades\obj\Debug\Entidades.dll
+C:\Users\L0665479\Desktop\Esquema-TP-02\TP-02\Entidades\obj\Debug\Entidades.pdb
+C:\Users\alumno\Desktop\Esquema-TP-02\TP-02\Entidades\bin\Debug\Entidades.dll
+C:\Users\alumno\Desktop\Esquema-TP-02\TP-02\Entidades\bin\Debug\Entidades.pdb
+C:\Users\alumno\Desktop\Esquema-TP-02\TP-02\Entidades\obj\Debug\Entidades_2017.csprojResolveAssemblyReference.cache
+C:\Users\alumno\Desktop\Esquema-TP-02\TP-02\Entidades\obj\Debug\Entidades.dll
+C:\Users\alumno\Desktop\Esquema-TP-02\TP-02\Entidades\obj\Debug\Entidades.pdb
