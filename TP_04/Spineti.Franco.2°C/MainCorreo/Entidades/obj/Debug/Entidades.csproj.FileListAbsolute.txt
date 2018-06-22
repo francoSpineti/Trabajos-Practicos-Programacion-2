@@ -1,0 +1,15 @@
+C:\Users\L0665479\Desktop\Spineti.Franco.2°C\MainCorreo\Entidades\bin\Debug\Entidades.dll
+C:\Users\L0665479\Desktop\Spineti.Franco.2°C\MainCorreo\Entidades\bin\Debug\Entidades.pdb
+C:\Users\L0665479\Desktop\Spineti.Franco.2°C\MainCorreo\Entidades\obj\Debug\Entidades.csprojResolveAssemblyReference.cache
+C:\Users\L0665479\Desktop\Spineti.Franco.2°C\MainCorreo\Entidades\obj\Debug\Entidades.dll
+C:\Users\L0665479\Desktop\Spineti.Franco.2°C\MainCorreo\Entidades\obj\Debug\Entidades.pdb
+C:\Users\alumno\Desktop\Spineti.Franco.2°C\MainCorreo\Entidades\obj\Debug\Entidades.dll
+C:\Users\alumno\Desktop\Spineti.Franco.2°C\MainCorreo\Entidades\obj\Debug\Entidades.pdb
+C:\Users\alumno\Desktop\Spineti.Franco.2°C\MainCorreo\Entidades\bin\Debug\Entidades.dll
+C:\Users\alumno\Desktop\Spineti.Franco.2°C\MainCorreo\Entidades\bin\Debug\Entidades.pdb
+C:\Users\Franco\Desktop\Spineti.Franco.2°C\MainCorreo\Entidades\bin\Debug\Entidades.dll
+C:\Users\Franco\Desktop\Spineti.Franco.2°C\MainCorreo\Entidades\bin\Debug\Entidades.pdb
+C:\Users\Franco\Desktop\Spineti.Franco.2°C\MainCorreo\Entidades\obj\Debug\Entidades.csprojResolveAssemblyReference.cache
+C:\Users\Franco\Desktop\Spineti.Franco.2°C\MainCorreo\Entidades\obj\Debug\Entidades.dll
+C:\Users\Franco\Desktop\Spineti.Franco.2°C\MainCorreo\Entidades\obj\Debug\Entidades.pdb
+C:\Users\Franco\Desktop\Spineti.Franco.2°C\MainCorreo\Entidades\bin\Debug\Entidades.dll.config

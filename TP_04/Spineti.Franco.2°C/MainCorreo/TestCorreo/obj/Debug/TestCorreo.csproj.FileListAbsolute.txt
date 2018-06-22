@@ -1,0 +1,7 @@
+C:\Users\Franco\Desktop\Spineti.Franco.2°C\MainCorreo\TestCorreo\bin\Debug\TestCorreo.dll
+C:\Users\Franco\Desktop\Spineti.Franco.2°C\MainCorreo\TestCorreo\bin\Debug\TestCorreo.pdb
+C:\Users\Franco\Desktop\Spineti.Franco.2°C\MainCorreo\TestCorreo\bin\Debug\Entidades.dll
+C:\Users\Franco\Desktop\Spineti.Franco.2°C\MainCorreo\TestCorreo\bin\Debug\Entidades.pdb
+C:\Users\Franco\Desktop\Spineti.Franco.2°C\MainCorreo\TestCorreo\obj\Debug\TestCorreo.csprojResolveAssemblyReference.cache
+C:\Users\Franco\Desktop\Spineti.Franco.2°C\MainCorreo\TestCorreo\obj\Debug\TestCorreo.dll
+C:\Users\Franco\Desktop\Spineti.Franco.2°C\MainCorreo\TestCorreo\obj\Debug\TestCorreo.pdb
